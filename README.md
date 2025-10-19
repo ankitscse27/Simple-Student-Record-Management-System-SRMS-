@@ -57,8 +57,6 @@ view_students()
 
 search_student()
 
-#Creator- ankitscse27
-
 update_student()
 
 delete_student()
@@ -67,3 +65,5 @@ delete_student()
 The entry point of the application, which displays the menu and handles user input to call the core system functions.
 
 main_menu(): The primary loop that runs until the user chooses to exit.
+
+#Creator- ankitscse27
